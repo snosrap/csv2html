@@ -52,5 +52,5 @@ Dependencies
 Limitations
 -----------
 
-* Very short files with excessive Markdown will confuse Python's heuristics 
+* Very short files with excessive Markdown will confuse Python's csv "sniffer" heuristics 
 * No custom delimiters
