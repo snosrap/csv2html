@@ -4,7 +4,7 @@
 import sys, csv
 import StringIO
 try:
-  from markdown import markdown
+	from markdown import markdown
 except ImportError:
 	def markdown(s):
 		return s
