@@ -54,3 +54,8 @@ Limitations
 
 * Very short files with excessive Markdown will confuse Python's csv "sniffer" heuristics 
 * No custom delimiters
+
+Similar
+-------
+
+* https://github.com/mrc/csv2html
